@@ -1,0 +1,35 @@
+a {
+    border: black solid 2px;
+    background-color: lightseagreen;
+    border-radius: 1px;
+    padding: 5px;
+    margin: auto;
+}
+
+a:hover {
+    color: lightgreen;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:focus {
+    border: black dashed 1px;
+}
+
+header {
+    text-align: center;
+}
+
+header > p {
+    padding-bottom: 10px;
+}
+
+html {
+    background-color: lightsteelblue;
+}
+
+p{
+    text-indent: 30px;
+}
